@@ -34,9 +34,24 @@
 
         $car1 = new Car("black", "Volvo");
         // echo $car1 -> message();
-        echo var_dump($car1);
+        // echo var_dump($car1);
         // $x = null; 
         // var_dump($x);
+
+        //string in php and practice and practice
+        $x = "hello world !"; 
+        echo strlen($x);
+        echo "<br>"; 
+        echo str_word_count($x);
+        echo "<br>"; 
+        echo strrev($x);
+        echo "<br>";
+        echo strpos("hello world! ", " ");
+        echo "<br>"; 
+        echo str_replace("hello", "hi", "hello world!"); 
+
+        //php numbers
+        
     ?>
 </body>
 </html>
