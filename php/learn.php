@@ -1,57 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn php</title>
-</head>
-<body>
-    <h1>this is test page for learning</h1>
+<?php declare(strict_types=1);
+// multidimensional array ih php 
+$cars = array (
+    array("Volvo",22,18),
+    array("BMW",15,13),
+    array("Saab",5,2),
+    array("Land Rover",17,15)
+);
+echo $cars[0][0].": In stock: ".$cars[0][1].", sold: ".$cars[0][2].".<br>";
+echo $cars[1][0].": In stock: ".$cars[1][1].", sold: ".$cars[1][2].".<br>";
+echo $cars[2][0].": In stock: ".$cars[2][1].", sold: ".$cars[2][2].".<br>";
+echo $cars[3][0].": In stock: ".$cars[3][1].", sold: ".$cars[3][2].".<br>";
+echo "<hr>";
+for($row = 0; $row < 4; $row++){
+    echo "<p><b>row number is $row</b></p>";
+    echo "<ul>";
+    for($col = 0; $col < 3; $col++) {
+        echo "<li>" . $cars[$row][$col] . "</li>";
+    }
+    echo "</ul>";
+}
 
-    <?php
-        /*
-        local 
-        global 
-        static
-        */
-        /*
-        echo and print in php
-        */
-
-        class Car {
-            public $color; 
-            public $model; 
-
-            public function __construct($color, $model) {
-                $this -> color = $color;
-                $this -> model = $model;
-            }
-            public function message() {
-                return "My car is a " . $this -> color . " " . $this -> model . "!";
-            }
-        }
-
-        $car1 = new Car("black", "Volvo");
-        // echo $car1 -> message();
-        // echo var_dump($car1);
-        // $x = null; 
-        // var_dump($x);
-
-        //string in php and practice and practice
-        $x = "hello world !"; 
-        echo strlen($x);
-        echo "<br>"; 
-        echo str_word_count($x);
-        echo "<br>"; 
-        echo strrev($x);
-        echo "<br>";
-        echo strpos("hello world! ", " ");
-        echo "<br>"; 
-        echo str_replace("hello", "hi", "hello world!"); 
-
-        //php numbers
-        
-    ?>
-</body>
-</html>
+?>
