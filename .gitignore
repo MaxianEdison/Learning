@@ -1,0 +1,6 @@
+#ignore all .log file
+*.log
+
+#ignote temp files
+temp/
+
