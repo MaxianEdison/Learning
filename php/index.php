@@ -1,3 +1,4 @@
 <?php 
 
-phpinfo();
+$name = $_GET["name"];
+echo $name;
