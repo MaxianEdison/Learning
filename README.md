@@ -2,7 +2,6 @@
 
 Okay, everything is good!
 
-<<<<<<< HEAD
 this is main branch
 
 push main branch changes
@@ -29,4 +28,3 @@ this is not quote
 - [ ] PHP at [w3schools.com](https://www.w3schools.com/php/default.asp)
 - [ ] PHP at [php.net](https://www.php.net/)
 - [ ] git at [git-scm.com](https://git-scm.com/)
->>>>>>> master
