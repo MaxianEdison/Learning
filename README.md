@@ -21,6 +21,9 @@ push main branch changes
 ###### quote
 this is not quote 
 > but this is quote
+
+now i want learn fetch and merge
+
 ### to read list
 
 - [ ] git at [w3schools.com](https://www.w3schools.com/git/)
