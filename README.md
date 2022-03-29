@@ -2,6 +2,17 @@
 
 Okay, everything is good!
 
+###### this is smallest heading
+
+**this is bold text**
+*this is italic text*
+~~this is another one~~
+**this is a _italic_ text nested in bold text**
+***bold and italic text***
+
+###### quote
+this is not quote 
+> but this is quote
 ### to read list
 
 - [ ] git at [w3schools.com](https://www.w3schools.com/git/)
