@@ -1,29 +1,6 @@
-## this is test repository and just learning
+### this is test repo for learning 
 
-Okay, everything is good!
-
-this is main branch
-
-push main branch changes
-=======
-###### this is smallest heading
-
-**this is bold text**
-
-*this is italic text*
-
-~~this is another one~~
-
-**this is a _italic_ text nested in bold text**
-
-***bold and italic text***
-
-###### quote
-this is not quote 
-> but this is quote
-
-now i want learn fetch and merge
-
+I'm very depressed and nothing is going well
 ### to read list
 
 - [x] git at [w3schools.com](https://www.w3schools.com/git/)
