@@ -1,4 +1,4 @@
-## this is test repository 
+## this is test repository and just learning
 
 Okay, everything is good!
 
