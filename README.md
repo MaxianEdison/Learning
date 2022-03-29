@@ -26,7 +26,7 @@ now i want learn fetch and merge
 
 ### to read list
 
-- [ ] git at [w3schools.com](https://www.w3schools.com/git/)
+- [x] git at [w3schools.com](https://www.w3schools.com/git/)
 - [ ] SQL at [w3schools.com](https://www.w3schools.com/sql/default.asp)
 - [ ] PHP at [w3schools.com](https://www.w3schools.com/php/default.asp)
 - [ ] PHP at [php.net](https://www.php.net/)
