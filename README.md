@@ -9,3 +9,5 @@ I'm very depressed and nothing is going well
 - [ ] Start linux
 - [ ] Start network
 - [ ] Python at [w3schools.com](https://www.w3schools.com/python/default.asp)
+- [ ] Flask
+- [ ] web crawler
