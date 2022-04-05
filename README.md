@@ -9,6 +9,8 @@ I'm very depressed and nothing is going well
 - [ ] Learn tmux
 - [ ] Start Vim
 - [ ] Start linux
+- [ ] Start PHP
+- [ ] Start Laravel
 - [ ] Start python
 - [ ] Learn tkinter
 - [ ] Make Simple web crawler
