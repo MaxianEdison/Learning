@@ -5,7 +5,7 @@ I'm very depressed and nothing is going well
 
 ### TODO
 
-- [ ] Start network
+- [x] Start network
 - [ ] Learn tmux
 - [ ] Start Vim
 - [ ] Start linux
