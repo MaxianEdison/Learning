@@ -1,13 +1,12 @@
 ### this is test repo for learning 
 
-I'm very depressed and nothing is going well
-
+okay. everything is good and i'm fun!!!
 
 ### TODO
 
-- [x] Start network
+- [ ] Start network
 - [ ] Learn tmux
-- [ ] Start Vim
+- [x] Start Vim
 - [ ] Start linux
 - [ ] Start PHP
 - [ ] Start Laravel
