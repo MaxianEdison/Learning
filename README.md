@@ -10,7 +10,7 @@ okay. everything is good and i'm fun!!!
 - [ ] Start linux
 - [ ] Start PHP
 - [ ] Start Laravel
-- [x] Start python
+- [ ] Start python
 - [ ] Learn tkinter
 - [ ] Make Simple web crawler
 - [ ] Start Flask
