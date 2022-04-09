@@ -1,6 +1,6 @@
 ### this is test repo for learning 
 
-okay. everything is good and i'm fun!!!
+okay. everything is good!!!
 
 ### TODO
 
