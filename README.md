@@ -5,8 +5,8 @@ okay. everything is good and i'm fun!!!
 ### TODO
 
 - [ ] Start network
-- [x] Learn tmux
-- [x] Start Vim
+- [ ] Learn tmux
+- [ ] Start Vim
 - [ ] Start linux
 - [ ] Start PHP
 - [ ] Start Laravel
