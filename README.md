@@ -4,15 +4,14 @@ okay. everything is good!!!
 
 ### TODO
 
-- [ ] Start network
+- [ ] Learn network
 - [ ] Learn tmux
-- [ ] Start Vim
-- [ ] Start linux
-- [ ] Start PHP
-- [ ] Start Laravel
-- [ ] Start python
+- [ ] Learn Vim
+- [ ] Learn linux
+- [ ] Learn PHP
+- [ ] Learn Laravel
+- [ ] Learn python
 - [ ] Learn tkinter
-- [ ] Make Simple web crawler
-- [ ] Start Flask
-- [ ] Start Django
-- [ ] Start BlockChain
+- [ ] Learn Flask
+- [ ] Learn Django
+- [ ] Learn BlockChain
