@@ -5,7 +5,7 @@ okay. everything is good!!!
 ### TODO
 
 - [ ] Learn network
-- [ ] Learn tmux
+- [x] Learn tmux
 - [ ] Learn Vim
 - [ ] Learn linux
 - [ ] Learn PHP
